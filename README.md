@@ -53,7 +53,7 @@ Vamos criar então uma aplicação que nos permita consultar, criar e editar ess
 - A API deve seguir as boas práticas e padrões de implementação REST
 - Os dados deve ser salvos em um banco de dados
 - Prover documentação para API. (Sugestão OpenAPI/Swagger)
-- Use **Node.js** e qualquer outro framework
+- Use **Node.js** 
 - Use **Javascript ECMA**
 - Use **MongoDB**.
 

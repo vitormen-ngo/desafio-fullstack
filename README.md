@@ -29,8 +29,8 @@ Vamos criar então uma aplicação que nos permita consultar, criar e editar ess
   "id": xxx,                  // ID 
   "descricao": "test",        // descricao do tipo *Obrigatório
   "situacao": true,           // situacao do cadastro *Obrigatório
-  "updatedAt": "",            // data e hora ultima atualizacao *Obrigatório
-  "createdAt": ""             // data e hora de cadastro *Obrigatório
+  "atualizadoEm": "",         // data e hora ultima atualizacao *Obrigatório
+  "criadoEm": ""              // data e hora de cadastro *Obrigatório
 }
 ```
 
@@ -43,8 +43,8 @@ Vamos criar então uma aplicação que nos permita consultar, criar e editar ess
     "email": "a@a.com",          // Endereço de e-mail do profissional
     "tipoDeProfissional": xxx,   // Vinculo com o tipo de profissional *Obrigatório
     "situacao": true,            // Situação do cadastro *Obrigatório
-    "updatedAt": "",             // Data e hora da última atualização *Obrigatório
-    "createdAt": ""              // Data e hora da de cadastro *Obrigatório
+    "atualizadoEm": "",          // Data e hora da última atualização *Obrigatório
+    "criadoEm": ""               // Data e hora da de cadastro *Obrigatório
 }
 ```
 
